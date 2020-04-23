@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 
-#include "Pedometer.h"
+#include "Pedometer2.h"
 
 //сброс мусора для корректного ввода
 void flush()
